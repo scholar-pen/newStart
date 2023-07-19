@@ -1,0 +1,3 @@
+rimraf node_modules
+cnpm i
+npm run serve
